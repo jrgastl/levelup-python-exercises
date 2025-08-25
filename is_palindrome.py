@@ -1,5 +1,5 @@
 '''
-Author Note:
+Author Notes:
 That was a great challenge to manipulate strings and slice lists. The implemenation is a bit rough, specially after learning about the regular expressions module.
 '''
 def is_palindrome(text):

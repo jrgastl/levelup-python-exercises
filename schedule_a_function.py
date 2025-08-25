@@ -1,10 +1,10 @@
 '''
-Author Note:
+Author Notes:
 This time I wrote the challenge briefing before the code, which I understand is a good practice.
 Besides that, the challenge video was slightly confusing on what exactly should be done. What the instructor said was slightly different from what was on the screen.
 In the end, I created a second function to do what was written on the screen, that is, play a sound and write a message, but still did a general function according
 to what he was saying, that is at a certain time print a string ('Howdy') on the screen. I enjoyed the exploration on how to play sounds in python.
-It was a funny challenge in the end.
+It was a funny challenge.
 
 Briefing:
 Python function which sets an alarm that plays a sound and prints a message at a specified time.

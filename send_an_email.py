@@ -1,5 +1,5 @@
 '''
-Author Note:
+Author Notes:
 With this challenge I could understand and learn about smtplib module by creating a smtplib object and sending a message with it. I had to format the text with MIME text method of the
 email.mime.text module to be able to use my e-mail server to send the message, since it required the 'From' field correctly filled.
 '''

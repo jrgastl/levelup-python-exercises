@@ -1,5 +1,5 @@
 '''
-Author Note:
+Author Notes:
 Here I applied what I learned in the JSON chapter of the Python Essential Training course, also part of this certificate.
 The instructor used a different approach, using the pickle module.
 '''

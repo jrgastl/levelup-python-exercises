@@ -1,5 +1,5 @@
 '''
-Author Note:
+Author Notes:
 In the first attempt, the approach was to find the prime numbers first and then look up for the factors, iterating with a while loop, so the multiplication of the factors would result in the value given in the function.
 After checking the instructor solution, I realized the code could be implemented in a much simpler way, looking for the factors from 2 upwards, and then checking if the number was prime.
 There is a lot of similarities still though, and I even built a small test in the end to check the result.

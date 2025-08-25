@@ -1,5 +1,5 @@
 '''
-Author Note:
+Author Notes:
 I suddenly realized how poorly I implemented the input() function after checking the instructor solution. I didn't do big changes to my code so to keep the learning process documentation.
 I only added some small things like, for example, the feedback in case the player gets the time 100% correct. Besides that, it was resourceful to understand a bit how to use the time module. 
 '''

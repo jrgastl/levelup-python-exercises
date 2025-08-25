@@ -1,5 +1,5 @@
 '''
-Author Note:
+Author Notes:
 Implemented the knowledge from the CSV chapter of the Python Essential Training here. Had to learn in the documentation about the DictWriter.
 Also struggled to find the reason on why my results were skipping one line between the rows, until I read about the newline= parameter in the documentation.
 Afer checking the instructor solution, also realized that I worked with multiple inputs and an output argument that should be declared, so I changed my code.

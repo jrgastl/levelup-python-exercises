@@ -1,5 +1,5 @@
 '''
-Author Note:
+Author Notes:
 So, this was a big challenge for me. I've got stuck on it for a while.
 I understand that the most "pythonic" solution for it is the backtracking. Additionally, the solution from the instructor implements the itertools module as well.
 In the end, I left in the first part of the code my attempts to use a logic to solve the problem. If the puzzle is not solved with the logic, then backtracking is applied.
